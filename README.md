@@ -1,4 +1,4 @@
-# fraud-analytics-report
+# Financial Fraud Impact Analysis
 
 ### **Project Goal**
 This project aims to analyze transaction data to identify fraud patterns and measure their financial impact. The primary focus is on exploratory data analysis to understand the characteristics of fraudulent transactions and the losses they incur.
