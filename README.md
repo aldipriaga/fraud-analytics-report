@@ -56,4 +56,4 @@ The main dashboard focuses on Incident Metrics and Financial Impact:
 ---
 ## 📸 Dashboard Snapshot
 
-![Financial Fraud Impact Analysis Dashboard](dashboard_final.png) 
+![Financial Fraud Impact Analysis Dashboard](dashboard_final.png.png) 
