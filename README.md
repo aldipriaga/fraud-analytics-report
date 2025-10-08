@@ -15,8 +15,8 @@ This project focuses on Business Intelligence (BI) and Data Governance to quanti
 
 This analysis is based on transactional data, revealing a total verified financial loss of **$3,988,088.61** (equivalent to **$3.99 Million**) after critical data correction.
 
-1.  **Age Vulnerability:** The **60+ years** age group exhibits the highest Fraud Ratio (above 1.0%), making them the most vulnerable target demographic.
-2.  **Loss Hotspots:** The **`shopping_net`** and **`misc_net`** merchant categories are the largest contributors to the total financial loss.
+1.  **Age Vulnerability:** The **80+ years** age group exhibits the highest Fraud Ratio (above 1.0%), making them the most vulnerable target demographic.
+2.  **Loss Hotspots:** The **`shopping_net`** and **`shopping_pos`** merchant categories are the largest contributors to the total financial loss.
 3.  **Incident Rate:** The overall Fraud Ratio is confirmed at **0.58%**, aligning with industry standards for rare anomalies.
 4.  **Time-based Risk Distribution:** Fraud incidents peak between **10:00 PM and 02:00 AM**, suggesting system vulnerabilities during reduced operational hours or specific windows targeted by fraudsters.
 
