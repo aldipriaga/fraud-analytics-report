@@ -52,3 +52,8 @@ The main dashboard focuses on Incident Metrics and Financial Impact:
 
 * **Power BI Dashboard:** Download the `Fraud.pbix` file to interactively explore the dashboard, using slicers to filter by Time, Location, and Merchant Category.
 * **Python Validation:** Review the `fraud.ipynb` notebook to examine the data cleaning script and the validation of the true total loss value.
+
+---
+## 📸 Dashboard Snapshot
+
+![Financial Fraud Impact Analysis Dashboard](dashboard_final.png) 
